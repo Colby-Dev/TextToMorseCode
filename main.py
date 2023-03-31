@@ -1,3 +1,5 @@
+#This function takes an input then returns the input as morse code. This was a timed challenge and the solution below was created in 5 min 21 seconds (5:23)
+
 def textToMorse(input):
     listedInput = list(input.upper())
     morse = []
